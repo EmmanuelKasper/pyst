@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Standart Time
 Exec=/home/manu/Projects/pyst/pyst.py /home/manu/Téléchargements/st24.mov
-GenericName=Standart Time
+GenericName=Standard Time
 Type=Application
 Categories=Utility
 Icon=/home/manu/Projects/pyst/standard-time.png
