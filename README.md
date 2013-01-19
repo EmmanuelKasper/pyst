@@ -1,9 +1,11 @@
 # pyst
 
 Standard Time XDG Python Wrapper for the standard time movie http://www.standard-time.com
+Icon Source: http://www.flickr.com/photos/sunshinecity/541330120/
 
 ## Install
-    ln -s pyst.py /usr/local/bin/pyst.py
     # edit standard-time.desktop to fit the film path
-    ln -s standard-time.desktop $HOME/.local/share/applications/
+    ln -s $PWD/standard-time.desktop $HOME/.local/share/applications/
+
+
 
