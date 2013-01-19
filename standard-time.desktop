@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Standart Time
+Exec=/home/manu/Projects/bin/pyst.py /home/manu/Téléchargements/st24.mov
+GenericName=Standart Time
+Type=Application
+Categories=Utility
+Icon=/home/manu/Images/misc_internet/standart-time.png
+
