@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=Standart Time
-Exec=/home/manu/Projects/pyst/pyst.py /home/manu/Téléchargements/st24.mov
+Name=Standard Time
+Exec=/home/manu/Projects/pyst/pyst.py /media/NTFS/st24_crf22.mp4
 GenericName=Standard Time
 Type=Application
 Categories=Utility
